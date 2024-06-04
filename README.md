@@ -33,3 +33,10 @@ Web 全栈开发项目班课程笔记整理。
 - [Node_Part_7](Node.js方向/Node_Part_7.md)
 - [Node_Part_8](Node.js方向/Node_Part_8.md)
 - [Node_Part_9](Node.js方向/Node_Part_9.md)
+
+## Module Four: Java 方向
+
+- [Java_Part_1](Java方向/Java_Part_1.md)
+- [Java_Part_2](Java方向/Java_Part_2.md)
+- [Java_Part_3](Java方向/Java_Part_3.md)
+- [Java_Part_4](Java方向/Java_Part_4.md)
