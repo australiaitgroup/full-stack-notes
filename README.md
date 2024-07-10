@@ -40,3 +40,6 @@ Web 全栈开发项目班课程笔记整理。
 - [Java_Part_2](Java方向/Java_Part_2.md)
 - [Java_Part_3](Java方向/Java_Part_3.md)
 - [Java_Part_4](Java方向/Java_Part_4.md)
+
+* [澳洲IT](https:jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
+
