@@ -42,6 +42,6 @@ Web 全栈开发项目班课程笔记整理。
 - [Java_Part_4](Java方向/Java_Part_4.md)
 
 * [澳洲找工作](https://jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
-* [Web全栈班]([https://jiangren.com.au/](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1)) — Web开发全栈项目班
+* [Web全栈班](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-) — Web开发全栈项目班
 
 
